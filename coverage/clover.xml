@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1672250563762" clover="3.2.0">
+  <project timestamp="1672250563762" name="All files">
+    <metrics statements="53" coveredstatements="46" conditionals="19" coveredconditionals="16" methods="10" coveredmethods="8" elements="82" coveredelements="70" complexity="0" loc="53" ncloc="53" packages="2" files="4" classes="4"/>
+    <package name="cpfValidator">
+      <metrics statements="22" coveredstatements="22" conditionals="7" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <file name="cpfAfter.ts" path="/home/alecsi/projects/study/cc-ca/ccat_project_aula1/src/cpfValidator/cpfAfter.ts">
+        <metrics statements="22" coveredstatements="22" conditionals="7" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="1" count="2" type="stmt"/>
+        <line num="2" count="6" type="stmt"/>
+        <line num="3" count="6" type="stmt"/>
+        <line num="4" count="4" type="cond" truecount="3" falsecount="0"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="13" count="8" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="5" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="11" type="stmt"/>
+        <line num="22" count="11" type="stmt"/>
+        <line num="23" count="11" type="stmt"/>
+        <line num="24" count="104" type="stmt"/>
+        <line num="25" count="104" type="stmt"/>
+        <line num="27" count="11" type="stmt"/>
+        <line num="28" count="11" type="stmt"/>
+        <line num="29" count="11" type="cond" truecount="0" falsecount="1"/>
+        <line num="30" count="11" type="stmt"/>
+      </file>
+    </package>
+    <package name="entities">
+      <metrics statements="31" coveredstatements="24" conditionals="12" coveredconditionals="10" methods="7" coveredmethods="5"/>
+      <file name="Coupon.ts" path="/home/alecsi/projects/study/cc-ca/ccat_project_aula1/src/entities/Coupon.ts">
+        <metrics statements="12" coveredstatements="10" conditionals="9" coveredconditionals="7" methods="3" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="7" count="3" type="cond" truecount="3" falsecount="0"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="18" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="26" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+      <file name="Order.ts" path="/home/alecsi/projects/study/cc-ca/ccat_project_aula1/src/entities/Order.ts">
+        <metrics statements="15" coveredstatements="10" conditionals="3" coveredconditionals="3" methods="3" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="16" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+      </file>
+      <file name="OrderItem.ts" path="/home/alecsi/projects/study/cc-ca/ccat_project_aula1/src/entities/OrderItem.ts">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
